@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="OrangeJuice:war">
-    <output-path>$PROJECT_DIR$/target</output-path>
-    <root id="archive" name="OrangeJuice.war">
-      <element id="artifact" artifact-name="OrangeJuice:war exploded" />
-    </root>
-  </artifact>
-</component>
